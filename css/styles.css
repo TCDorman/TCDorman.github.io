@@ -11455,3 +11455,13 @@ section.resume-section .resume-section-content {
   padding-bottom: 1rem;
   max-width: 75rem;
 }
+
+.interests{
+  display: flex;
+  padding-right: 3rem;
+
+}
+
+.projectPhotos{
+  padding-left: 15rem;
+}
