@@ -11438,3 +11438,20 @@ section.resume-section .resume-section-content {
   color: gray;
   
 }
+
+#projects{
+  display: flex;
+  padding-left: 1rem;
+  padding-top: 5rem;
+  padding-bottom: .5rem;
+  max-width: 75rem;
+}
+
+.fa-ul{
+  display: flex;
+  padding-left: 1rem;
+  padding-right:1rem;
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  max-width: 75rem;
+}
